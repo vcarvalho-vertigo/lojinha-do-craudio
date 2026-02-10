@@ -8,7 +8,11 @@
     {
       "name": "craudio",
       "source": "./plugins/craudio",
-      "description": "Plugin do Craudio com skills para code review e mais"
+      "description": "Plugin do Craudio com skills para code review e mais",
+      "author": {
+        "name": "Valdecir Carvalho"
+      },
+      "category": "productivity"
     }
   ]
 }
