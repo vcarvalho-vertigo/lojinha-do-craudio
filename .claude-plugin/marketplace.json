@@ -4,9 +4,6 @@
   "owner": {
     "name": "Valdecir Carvalho"
   },
-  "metadata": {
-    "description": "Marketplace de plugins para o Claude Code - um projeto de estudo para explorar o sistema de plugins."
-  },
   "plugins": [
     {
       "name": "craudio",
