@@ -1,0 +1,17 @@
+{
+  "name": "lojinha-do-craudio",
+  "owner": {
+    "name": "Valdecir Carvalho"
+  },
+  "metadata": {
+    "description": "Marketplace de plugins para o Claude Code - um projeto de estudo para explorar o sistema de plugins.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "review",
+      "source": "./plugins/review",
+      "description": "Skill de code review que analisa bugs, seguranca, performance e legibilidade"
+    }
+  ]
+}
