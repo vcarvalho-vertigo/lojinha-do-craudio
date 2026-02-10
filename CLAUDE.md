@@ -26,10 +26,10 @@ claude plugin validate .
 /plugin marketplace add ./
 
 # Install a plugin
-/plugin install review@lojinha-do-craudio
+/plugin install craudio@lojinha-do-craudio
 
 # Use the review skill
-/review:code
+/craudio:review-code
 ```
 
 ## Adding a new plugin

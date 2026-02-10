@@ -9,9 +9,9 @@
   },
   "plugins": [
     {
-      "name": "review",
-      "source": "./plugins/review",
-      "description": "Skill de code review que analisa bugs, seguranca, performance e legibilidade"
+      "name": "craudio",
+      "source": "./plugins/craudio",
+      "description": "Plugin do Craudio com skills para code review e mais"
     }
   ]
 }

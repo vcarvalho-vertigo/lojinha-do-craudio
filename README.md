@@ -6,7 +6,7 @@ Marketplace de plugins para o [Claude Code](https://claude.ai/code). Projeto de 
 
 | Plugin | Skill | Descrição |
 |--------|-------|-----------|
-| `review` | `/review:code` | Code review: bugs, segurança, performance e legibilidade |
+| `craudio` | `/craudio:review-code` | Code review: bugs, segurança, performance e legibilidade |
 
 ## Como usar
 
@@ -15,10 +15,10 @@ Marketplace de plugins para o [Claude Code](https://claude.ai/code). Projeto de 
 /plugin marketplace add <caminho-ou-repo>
 
 # Instalar um plugin
-/plugin install review@lojinha-do-craudio
+/plugin install craudio@lojinha-do-craudio
 
 # Usar a skill de review
-/review:code
+/craudio:review-code
 ```
 
 ## Teste local
