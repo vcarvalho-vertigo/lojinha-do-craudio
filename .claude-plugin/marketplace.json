@@ -1,11 +1,12 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "lojinha-do-craudio",
+  "description": "Marketplace de plugins para o Claude Code - um projeto de estudo para explorar o sistema de plugins.",
   "owner": {
     "name": "Valdecir Carvalho"
   },
   "metadata": {
-    "description": "Marketplace de plugins para o Claude Code - um projeto de estudo para explorar o sistema de plugins.",
-    "version": "1.0.0"
+    "description": "Marketplace de plugins para o Claude Code - um projeto de estudo para explorar o sistema de plugins."
   },
   "plugins": [
     {
